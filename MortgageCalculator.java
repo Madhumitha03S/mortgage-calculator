@@ -1,6 +1,6 @@
+import java.util.Scanner;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
-import java.util.Scanner;
 
 public class MortgageCalculator {
     private static final DecimalFormat mortgageDF = new DecimalFormat("0.00");
